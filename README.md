@@ -31,7 +31,7 @@ This is a RESTful API built for a social media platform, developed using FastAPI
 
    ```bash
    git clone https://github.com/pramod-zillella/fastapi-app-demo.git
-   cd social-media-api
+   cd fastapi-app-demo
    ```
 
 2. **Set Up Virtual Environment:**
